@@ -33,3 +33,4 @@ public class Medico extends Pessoa {
                 ", especialidade='" + this.getEspecialidade().getDescricao() + '\'' +
                 '}';
     }
+}

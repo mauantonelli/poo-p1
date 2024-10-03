@@ -3,7 +3,7 @@ import java.util.List;
 
 public class Especialidade {
 
-    //TODO igual na consulta
+
     private static int contadorId = 0;
     private int id;
     private String descricao;
